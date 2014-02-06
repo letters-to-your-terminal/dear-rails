@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["kristen@kristen-mills.com"]
   spec.summary       = "Write a letter to generate your rails app"
   spec.description   = "Write a letter to generate your rails app"
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/letters-to-your-terminal/dear-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
